@@ -44,7 +44,7 @@
     "roots/wordpress": "5.1",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "timlah/sage": "master"
+    "timlah/sage": "dev-master"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
