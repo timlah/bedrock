@@ -32,8 +32,8 @@
       "url": "https://wpackagist.org"
     },
     {
-      "type": "vcs",
-      "url": "https://github.com/timlah/sage"
+      "type": "git",
+      "url": "https://github.com/timlah/sage.git"
     }
   ],
   "require": {
